@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+#Keys
+keys/
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+.vscode/
